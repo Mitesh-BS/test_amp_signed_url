@@ -1,0 +1,11 @@
+_id	Consequence	CurrentExon	VARIANT_CLASS	SYMBOL	aa_change_in	doi	HGVSp	Cosmic	c_g_AF
+1	-	-	-	RB1	p.Asp954His	Solid tumor	:p.Asp954His	-	-
+2	-	-	-	MMR	p.Asp994Ala	Solid tumor	:p.Asp994Ala	-	-
+3	-	-	-	AR	p.Asn996Ala	Esophageal cancer	:p.Asn996Ala	-	-
+4	-	-	-	NTRK1	p.Tyr998Gln	Solid tumor	:p.Tyr998Gln	-	-
+5	-	-	-	RB1	p.Arg999Val	Glioblastoma	:p.Arg999Val	-	-
+6	-	-	-	MMR	p.Ala786*	Solid tumor	:p.Ala786*	-	-
+7	-	-	-	ABC	p.Abc786*	Solid tumor	:p.Abc786*	-	-
+8	-	-	-	APC	p.Arg924Gln	Esophageal cancer	:p.Arg924Gln	-	-
+9	-	-	-	ATM	p.Arg250*	Solid tumor	:p.Arg250*	-	-
+10	-	-	-	NF1	p.Leu581Phefs*6	Glioblastoma	:p.Leu581Phefs*6	-	-

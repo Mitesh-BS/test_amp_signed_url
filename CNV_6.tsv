@@ -1,0 +1,11 @@
+AnnotSV_ID	Gene_name	CN	doi
+1	CDKN2A	1	esophagus adenocarcinoma
+2	CDKN2A	0	solid tumor
+3	MYC	88	Diffuse large B-cell lymphoma
+4	SMAD4	1	solid tumor
+5	ERBB2	45	prostate small cell carcinoma
+6	PTEN	1	head and neck squamous cell carcinoma
+7	SMARCB1	7	solid tumor
+8	SMARCB1	1	gastroesophageal adenocarcinoma
+9	CCND1	14	vulva carcinoma
+10	CCND1	121	solid tumor

@@ -1,0 +1,14 @@
+id	FusionName	RightGene	rexons	LeftGene	lexons	doi
+1	NTRK1:Fusion	NTRK1	11	KRAS	2	Diffuse large B-cell lymphoma
+2	NTRK1:Fusion	NTRK1	15	KRAS	2	solid tumor
+3	NTRK1:Fusion	Any	0	NTRK1	10	solid tumor
+4	ALK:Fusion	ALK	11	NRAS	2	Breast cancer
+5	ALK:Fusion	ALK	22	EML4	2	solid tumor
+6	ALK:Fusion	NRAS	2	ALK	2	lung carcinoma
+7	FGFR3--TACC3:Fusion	FGFR3	17	TACC3	11	Uterine cancer
+8	FGFR3--TACC3:Fusion	TACC3	2	FGFR3	20	invasive lobular carcinoma
+9	RET:Fusion	RET	10	ALK	1	solid tumor
+10	RET:Fusion	RET	12	ALK	1	skin melanoma
+11	ROS1:Fusion	ROS1	9	RET	2	lung small cell carcinoma
+12	ROS1:Fusion	ROS1	9	RET	2	lung carcinoma
+13	ROS1:Fusion	ROS1	9	RET	2	Uterine cancer
